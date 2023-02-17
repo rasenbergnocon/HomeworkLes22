@@ -1,0 +1,19 @@
+
+header {background-color: rgb(189, 189, 243); width: 100%; height: 100px;} 
+
+.nav-link {color: black}
+
+.contactformulier
+{background-color: rgb(189, 189, 243); width:430px; margin: auto; padding: 10px;}
+input[type="text"], input[type="email"], textarea, select, button
+{display: block;
+	margin: 15px 0px;
+	width: 400px;
+	box-sizing: border-box;}
+textarea{height: 150px;
+	background-color: lightblue;
+	padding: 5px 4px;}
+button:active{background-color: lightgreen;
+	border-radius: 8px;}
+
+footer {background-color:rgb(189, 189, 243); height: 200px}
